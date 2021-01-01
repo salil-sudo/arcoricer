@@ -3,14 +3,11 @@
 sudo pacman -S --needed - < pkglist.txt
 yay -S --needed - < pkglist_aur.txt
 chmod -R +x ./.scripts/
-cp -R ./.scripts ~/
-sed -i "s/salil/$USER/g" ./.config/bspwm/bspwmrc ./.config/sxhkd/sxhkdrc ./.scripts/wallpaper.sh ./.scripts/reload_dunst.sh ./.scripts/spotifyinfo.sh ./.scripts/getemoji
-
-
+sed -i "s/salil/$USER/g" ./.scripts/* ./.config/*
 cp -R ./.config ./.scripts ./.cache ~/
 cd ~/.config/st
 sudo make install
-cd ~/arcoricer
+cd ~/autoricer
 sudo pip3 install pywal
 sudo pip install spotify-cli-linux
 cp -R wallpapers ~/Pictures/
