@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/camp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121b1c",
+        "foreground": "#b1b9be",
+        "cursor": "#b1b9be"
+    },
+    "colors": {
+        "color0": "#121b1c",
+        "color1": "#9A6950",
+        "color2": "#7B807F",
+        "color3": "#B98B6D",
+        "color4": "#3F6A80",
+        "color5": "#617887",
+        "color6": "#5F8093",
+        "color7": "#b1b9be",
+        "color8": "#7b8185",
+        "color9": "#9A6950",
+        "color10": "#7B807F",
+        "color11": "#B98B6D",
+        "color12": "#3F6A80",
+        "color13": "#617887",
+        "color14": "#5F8093",
+        "color15": "#b1b9be"
+    }
+}

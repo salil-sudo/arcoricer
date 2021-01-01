@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/stream_bridge.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0804",
+        "foreground": "#cdcbcc",
+        "cursor": "#cdcbcc"
+    },
+    "colors": {
+        "color0": "#0F0804",
+        "color1": "#684A22",
+        "color2": "#5E575A",
+        "color3": "#985C20",
+        "color4": "#AB6226",
+        "color5": "#CA9339",
+        "color6": "#7A7889",
+        "color7": "#cdcbcc",
+        "color8": "#8f8e8e",
+        "color9": "#684A22",
+        "color10": "#5E575A",
+        "color11": "#985C20",
+        "color12": "#AB6226",
+        "color13": "#CA9339",
+        "color14": "#7A7889",
+        "color15": "#cdcbcc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/fall_sun.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171006",
+        "foreground": "#dedbd1",
+        "cursor": "#dedbd1"
+    },
+    "colors": {
+        "color0": "#171006",
+        "color1": "#D4A46F",
+        "color2": "#996F87",
+        "color3": "#B5A187",
+        "color4": "#B3B9B6",
+        "color5": "#E0BB8F",
+        "color6": "#BDC2BA",
+        "color7": "#dedbd1",
+        "color8": "#9b9992",
+        "color9": "#D4A46F",
+        "color10": "#996F87",
+        "color11": "#B5A187",
+        "color12": "#B3B9B6",
+        "color13": "#E0BB8F",
+        "color14": "#BDC2BA",
+        "color15": "#dedbd1"
+    }
+}

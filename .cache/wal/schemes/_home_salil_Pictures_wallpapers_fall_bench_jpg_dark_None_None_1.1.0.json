@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/fall_bench.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a090b",
+        "foreground": "#e1cc99",
+        "cursor": "#e1cc99"
+    },
+    "colors": {
+        "color0": "#0a090b",
+        "color1": "#53574C",
+        "color2": "#93341A",
+        "color3": "#A25817",
+        "color4": "#AD613D",
+        "color5": "#D26D13",
+        "color6": "#E59915",
+        "color7": "#e1cc99",
+        "color8": "#9d8e6b",
+        "color9": "#53574C",
+        "color10": "#93341A",
+        "color11": "#A25817",
+        "color12": "#AD613D",
+        "color13": "#D26D13",
+        "color14": "#E59915",
+        "color15": "#e1cc99"
+    }
+}

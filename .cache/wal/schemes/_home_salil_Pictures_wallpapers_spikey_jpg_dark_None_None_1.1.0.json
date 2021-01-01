@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/spikey.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0603",
+        "foreground": "#efdeca",
+        "cursor": "#efdeca"
+    },
+    "colors": {
+        "color0": "#0c0603",
+        "color1": "#8C755A",
+        "color2": "#A58E6F",
+        "color3": "#D3A66C",
+        "color4": "#718384",
+        "color5": "#A09E8B",
+        "color6": "#D3B38D",
+        "color7": "#efdeca",
+        "color8": "#a79b8d",
+        "color9": "#8C755A",
+        "color10": "#A58E6F",
+        "color11": "#D3A66C",
+        "color12": "#718384",
+        "color13": "#A09E8B",
+        "color14": "#D3B38D",
+        "color15": "#efdeca"
+    }
+}

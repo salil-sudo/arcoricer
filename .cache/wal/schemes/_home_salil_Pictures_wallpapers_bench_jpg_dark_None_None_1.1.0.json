@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/bench.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c0b04",
+        "foreground": "#b9bec8",
+        "cursor": "#b9bec8"
+    },
+    "colors": {
+        "color0": "#1c0b04",
+        "color1": "#957269",
+        "color2": "#366E91",
+        "color3": "#6D7888",
+        "color4": "#8B7C83",
+        "color5": "#738B9B",
+        "color6": "#77ADC7",
+        "color7": "#b9bec8",
+        "color8": "#81858c",
+        "color9": "#957269",
+        "color10": "#366E91",
+        "color11": "#6D7888",
+        "color12": "#8B7C83",
+        "color13": "#738B9B",
+        "color14": "#77ADC7",
+        "color15": "#b9bec8"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/salil/Pictures/wallpapers/autumn.jpg"
+let background = "#0B0D2A"
+let foreground = "#f4eac7"
+let cursor     = "#f4eac7"
+
+" Colors
+let color0  = "#0B0D2A"
+let color1  = "#BD6D35"
+let color2  = "#7B8458"
+let color3  = "#ED9831"
+let color4  = "#AC8D4D"
+let color5  = "#EAA64F"
+let color6  = "#FBCD63"
+let color7  = "#f4eac7"
+let color8  = "#aaa38b"
+let color9  = "#BD6D35"
+let color10 = "#7B8458"
+let color11 = "#ED9831"
+let color12 = "#AC8D4D"
+let color13 = "#EAA64F"
+let color14 = "#FBCD63"
+let color15 = "#f4eac7"

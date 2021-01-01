@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/cherry_tree.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130b14",
+        "foreground": "#c8e4f0",
+        "cursor": "#c8e4f0"
+    },
+    "colors": {
+        "color0": "#130b14",
+        "color1": "#04CFEC",
+        "color2": "#18CDE3",
+        "color3": "#5FD7F1",
+        "color4": "#B196AC",
+        "color5": "#A3A7D5",
+        "color6": "#D6A7D6",
+        "color7": "#c8e4f0",
+        "color8": "#8c9fa8",
+        "color9": "#04CFEC",
+        "color10": "#18CDE3",
+        "color11": "#5FD7F1",
+        "color12": "#B196AC",
+        "color13": "#A3A7D5",
+        "color14": "#D6A7D6",
+        "color15": "#c8e4f0"
+    }
+}

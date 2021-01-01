@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/airplane_bridge.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1019",
+        "foreground": "#c3c3cc",
+        "cursor": "#c3c3cc"
+    },
+    "colors": {
+        "color0": "#0f1019",
+        "color1": "#76895B",
+        "color2": "#DEA068",
+        "color3": "#374A88",
+        "color4": "#627295",
+        "color5": "#90718C",
+        "color6": "#7588A8",
+        "color7": "#c3c3cc",
+        "color8": "#88888e",
+        "color9": "#76895B",
+        "color10": "#DEA068",
+        "color11": "#374A88",
+        "color12": "#627295",
+        "color13": "#90718C",
+        "color14": "#7588A8",
+        "color15": "#c3c3cc"
+    }
+}

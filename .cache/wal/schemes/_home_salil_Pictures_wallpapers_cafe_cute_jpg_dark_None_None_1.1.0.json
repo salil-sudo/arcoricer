@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/cafe_cute.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100b13",
+        "foreground": "#efd5ab",
+        "cursor": "#efd5ab"
+    },
+    "colors": {
+        "color0": "#100b13",
+        "color1": "#A94536",
+        "color2": "#9B6B53",
+        "color3": "#E16952",
+        "color4": "#76896D",
+        "color5": "#A68E6D",
+        "color6": "#D99A6C",
+        "color7": "#efd5ab",
+        "color8": "#a79577",
+        "color9": "#A94536",
+        "color10": "#9B6B53",
+        "color11": "#E16952",
+        "color12": "#76896D",
+        "color13": "#A68E6D",
+        "color14": "#D99A6C",
+        "color15": "#efd5ab"
+    }
+}

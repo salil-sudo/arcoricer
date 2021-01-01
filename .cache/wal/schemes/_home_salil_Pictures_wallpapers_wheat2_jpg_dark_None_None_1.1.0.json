@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/wheat2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1612",
+        "foreground": "#ece8e0",
+        "cursor": "#ece8e0"
+    },
+    "colors": {
+        "color0": "#1a1612",
+        "color1": "#A16722",
+        "color2": "#B57A31",
+        "color3": "#75877A",
+        "color4": "#C8914E",
+        "color5": "#B6AE94",
+        "color6": "#E0CDAD",
+        "color7": "#ece8e0",
+        "color8": "#a5a29c",
+        "color9": "#A16722",
+        "color10": "#B57A31",
+        "color11": "#75877A",
+        "color12": "#C8914E",
+        "color13": "#B6AE94",
+        "color14": "#E0CDAD",
+        "color15": "#ece8e0"
+    }
+}

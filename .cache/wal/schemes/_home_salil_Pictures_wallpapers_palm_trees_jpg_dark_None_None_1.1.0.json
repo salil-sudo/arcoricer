@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/palm_trees.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09090A",
+        "foreground": "#dfd1c6",
+        "cursor": "#dfd1c6"
+    },
+    "colors": {
+        "color0": "#09090A",
+        "color1": "#5E6069",
+        "color2": "#8C756C",
+        "color3": "#B19077",
+        "color4": "#727785",
+        "color5": "#7F808A",
+        "color6": "#9F9595",
+        "color7": "#dfd1c6",
+        "color8": "#9c928a",
+        "color9": "#5E6069",
+        "color10": "#8C756C",
+        "color11": "#B19077",
+        "color12": "#727785",
+        "color13": "#7F808A",
+        "color14": "#9F9595",
+        "color15": "#dfd1c6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/japan_light.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0601",
+        "foreground": "#dccc94",
+        "cursor": "#dccc94"
+    },
+    "colors": {
+        "color0": "#0c0601",
+        "color1": "#8C380A",
+        "color2": "#9C5A15",
+        "color3": "#D16C14",
+        "color4": "#9A7346",
+        "color5": "#798414",
+        "color6": "#E9972B",
+        "color7": "#dccc94",
+        "color8": "#9a8e67",
+        "color9": "#8C380A",
+        "color10": "#9C5A15",
+        "color11": "#D16C14",
+        "color12": "#9A7346",
+        "color13": "#798414",
+        "color14": "#E9972B",
+        "color15": "#dccc94"
+    }
+}

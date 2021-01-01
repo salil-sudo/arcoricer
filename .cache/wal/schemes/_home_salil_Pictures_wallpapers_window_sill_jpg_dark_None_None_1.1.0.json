@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/window_sill.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#070906",
+        "foreground": "#e3e7e7",
+        "cursor": "#e3e7e7"
+    },
+    "colors": {
+        "color0": "#070906",
+        "color1": "#6D8B26",
+        "color2": "#75875D",
+        "color3": "#B7C03C",
+        "color4": "#929369",
+        "color5": "#9EA095",
+        "color6": "#C7C2B1",
+        "color7": "#e3e7e7",
+        "color8": "#9ea1a1",
+        "color9": "#6D8B26",
+        "color10": "#75875D",
+        "color11": "#B7C03C",
+        "color12": "#929369",
+        "color13": "#9EA095",
+        "color14": "#C7C2B1",
+        "color15": "#e3e7e7"
+    }
+}

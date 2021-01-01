@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/vibrant.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0605",
+        "foreground": "#9ac2de",
+        "cursor": "#9ac2de"
+    },
+    "colors": {
+        "color0": "#0E0605",
+        "color1": "#E26512",
+        "color2": "#CC3B4D",
+        "color3": "#539654",
+        "color4": "#E5A038",
+        "color5": "#2B58B0",
+        "color6": "#BE589F",
+        "color7": "#9ac2de",
+        "color8": "#6b879b",
+        "color9": "#E26512",
+        "color10": "#CC3B4D",
+        "color11": "#539654",
+        "color12": "#E5A038",
+        "color13": "#2B58B0",
+        "color14": "#BE589F",
+        "color15": "#9ac2de"
+    }
+}

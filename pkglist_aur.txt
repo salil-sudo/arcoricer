@@ -1,0 +1,12 @@
+aleo-fonts
+anydesk-bin
+bottom
+gruvbox-dark-icons-gtk
+lf
+libxft-bgra
+mkinitcpio-openswap
+rofi-dmenu
+starship
+ttf-arvo
+ttf-font-awesome-4
+ttf-merriweather

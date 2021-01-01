@@ -1,0 +1,21 @@
+set $wallpaper /home/salil/Pictures/wallpapers/autumn.jpg
+
+set $background #0B0D2A
+set $foreground #f4eac7
+
+set $color0 #0B0D2A
+set $color1 #BD6D35
+set $color2 #7B8458
+set $color3 #ED9831
+set $color4 #AC8D4D
+set $color5 #EAA64F
+set $color6 #FBCD63
+set $color7 #f4eac7
+set $color8 #aaa38b
+set $color9 #BD6D35
+set $color10 #7B8458
+set $color11 #ED9831
+set $color12 #AC8D4D
+set $color13 #EAA64F
+set $color14 #FBCD63
+set $color15 #f4eac7

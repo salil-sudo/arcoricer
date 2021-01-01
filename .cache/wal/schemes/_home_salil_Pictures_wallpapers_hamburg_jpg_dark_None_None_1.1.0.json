@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/hamburg.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090503",
+        "foreground": "#c3c3c5",
+        "cursor": "#c3c3c5"
+    },
+    "colors": {
+        "color0": "#090503",
+        "color1": "#976D53",
+        "color2": "#798570",
+        "color3": "#CF9A51",
+        "color4": "#E8A566",
+        "color5": "#4F6FA3",
+        "color6": "#728CAC",
+        "color7": "#c3c3c5",
+        "color8": "#888889",
+        "color9": "#976D53",
+        "color10": "#798570",
+        "color11": "#CF9A51",
+        "color12": "#E8A566",
+        "color13": "#4F6FA3",
+        "color14": "#728CAC",
+        "color15": "#c3c3c5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/wallhaven.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#19100d",
+        "foreground": "#e7d8dd",
+        "cursor": "#e7d8dd"
+    },
+    "colors": {
+        "color0": "#19100d",
+        "color1": "#918384",
+        "color2": "#A892A4",
+        "color3": "#E5B3AD",
+        "color4": "#FECD97",
+        "color5": "#FCD3AF",
+        "color6": "#D9B5C9",
+        "color7": "#e7d8dd",
+        "color8": "#a1979a",
+        "color9": "#918384",
+        "color10": "#A892A4",
+        "color11": "#E5B3AD",
+        "color12": "#FECD97",
+        "color13": "#FCD3AF",
+        "color14": "#D9B5C9",
+        "color15": "#e7d8dd"
+    }
+}

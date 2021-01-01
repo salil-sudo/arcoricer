@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/fall_scary.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090107",
+        "foreground": "#f0dbb0",
+        "cursor": "#f0dbb0"
+    },
+    "colors": {
+        "color0": "#090107",
+        "color1": "#945F48",
+        "color2": "#AD724A",
+        "color3": "#DC8939",
+        "color4": "#BA8652",
+        "color5": "#CB9154",
+        "color6": "#E0AB63",
+        "color7": "#f0dbb0",
+        "color8": "#a8997b",
+        "color9": "#945F48",
+        "color10": "#AD724A",
+        "color11": "#DC8939",
+        "color12": "#BA8652",
+        "color13": "#CB9154",
+        "color14": "#E0AB63",
+        "color15": "#f0dbb0"
+    }
+}

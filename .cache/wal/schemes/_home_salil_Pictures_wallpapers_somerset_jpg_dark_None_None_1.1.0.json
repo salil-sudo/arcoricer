@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/somerset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120f0c",
+        "foreground": "#bfbfae",
+        "cursor": "#bfbfae"
+    },
+    "colors": {
+        "color0": "#120f0c",
+        "color1": "#6D564D",
+        "color2": "#746B59",
+        "color3": "#925A2F",
+        "color4": "#C66B3B",
+        "color5": "#916D57",
+        "color6": "#AF9646",
+        "color7": "#bfbfae",
+        "color8": "#858579",
+        "color9": "#6D564D",
+        "color10": "#746B59",
+        "color11": "#925A2F",
+        "color12": "#C66B3B",
+        "color13": "#916D57",
+        "color14": "#AF9646",
+        "color15": "#bfbfae"
+    }
+}

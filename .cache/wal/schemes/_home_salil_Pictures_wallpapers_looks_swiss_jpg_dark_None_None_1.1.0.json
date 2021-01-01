@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/looks_swiss.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#06050A",
+        "foreground": "#e1c293",
+        "cursor": "#e1c293"
+    },
+    "colors": {
+        "color0": "#06050A",
+        "color1": "#4B3948",
+        "color2": "#1C4457",
+        "color3": "#51484E",
+        "color4": "#684D47",
+        "color5": "#9C5711",
+        "color6": "#AD5111",
+        "color7": "#e1c293",
+        "color8": "#9d8766",
+        "color9": "#4B3948",
+        "color10": "#1C4457",
+        "color11": "#51484E",
+        "color12": "#684D47",
+        "color13": "#9C5711",
+        "color14": "#AD5111",
+        "color15": "#e1c293"
+    }
+}

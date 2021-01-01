@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/taipei_101.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040B0D",
+        "foreground": "#e7ddd0",
+        "cursor": "#e7ddd0"
+    },
+    "colors": {
+        "color0": "#040B0D",
+        "color1": "#A4643E",
+        "color2": "#E3A541",
+        "color3": "#697487",
+        "color4": "#79848F",
+        "color5": "#A1999D",
+        "color6": "#CDB5A7",
+        "color7": "#e7ddd0",
+        "color8": "#a19a91",
+        "color9": "#A4643E",
+        "color10": "#E3A541",
+        "color11": "#697487",
+        "color12": "#79848F",
+        "color13": "#A1999D",
+        "color14": "#CDB5A7",
+        "color15": "#e7ddd0"
+    }
+}

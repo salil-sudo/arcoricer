@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/cars_snow.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110c08",
+        "foreground": "#e9cda3",
+        "cursor": "#e9cda3"
+    },
+    "colors": {
+        "color0": "#110c08",
+        "color1": "#8A562D",
+        "color2": "#955120",
+        "color3": "#986535",
+        "color4": "#AC6F37",
+        "color5": "#B6783E",
+        "color6": "#DF9D4F",
+        "color7": "#e9cda3",
+        "color8": "#a38f72",
+        "color9": "#8A562D",
+        "color10": "#955120",
+        "color11": "#986535",
+        "color12": "#AC6F37",
+        "color13": "#B6783E",
+        "color14": "#DF9D4F",
+        "color15": "#e9cda3"
+    }
+}

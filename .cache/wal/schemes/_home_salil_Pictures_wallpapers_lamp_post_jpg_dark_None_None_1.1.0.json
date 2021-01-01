@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/lamp_post.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0D0B",
+        "foreground": "#ede9e2",
+        "cursor": "#ede9e2"
+    },
+    "colors": {
+        "color0": "#0C0D0B",
+        "color1": "#829FC8",
+        "color2": "#92B2D5",
+        "color3": "#A6BCD7",
+        "color4": "#B4C5D9",
+        "color5": "#B9CBE2",
+        "color6": "#CED1D3",
+        "color7": "#ede9e2",
+        "color8": "#a5a39e",
+        "color9": "#829FC8",
+        "color10": "#92B2D5",
+        "color11": "#A6BCD7",
+        "color12": "#B4C5D9",
+        "color13": "#B9CBE2",
+        "color14": "#CED1D3",
+        "color15": "#ede9e2"
+    }
+}

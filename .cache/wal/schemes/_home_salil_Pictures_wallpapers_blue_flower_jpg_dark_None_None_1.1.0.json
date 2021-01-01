@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/blue_flower.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10100b",
+        "foreground": "#deeff6",
+        "cursor": "#deeff6"
+    },
+    "colors": {
+        "color0": "#10100b",
+        "color1": "#76882B",
+        "color2": "#929A43",
+        "color3": "#6E9EDC",
+        "color4": "#A3A19F",
+        "color5": "#93B1E9",
+        "color6": "#A9D9FD",
+        "color7": "#deeff6",
+        "color8": "#9ba7ac",
+        "color9": "#76882B",
+        "color10": "#929A43",
+        "color11": "#6E9EDC",
+        "color12": "#A3A19F",
+        "color13": "#93B1E9",
+        "color14": "#A9D9FD",
+        "color15": "#deeff6"
+    }
+}

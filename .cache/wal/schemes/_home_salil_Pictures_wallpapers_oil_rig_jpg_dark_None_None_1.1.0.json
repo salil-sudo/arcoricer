@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/oil_rig.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0401",
+        "foreground": "#f6e3cc",
+        "cursor": "#f6e3cc"
+    },
+    "colors": {
+        "color0": "#0c0401",
+        "color1": "#FB992D",
+        "color2": "#EC9D5B",
+        "color3": "#F8AF72",
+        "color4": "#FCC570",
+        "color5": "#FAB887",
+        "color6": "#FECA92",
+        "color7": "#f6e3cc",
+        "color8": "#ac9e8e",
+        "color9": "#FB992D",
+        "color10": "#EC9D5B",
+        "color11": "#F8AF72",
+        "color12": "#FCC570",
+        "color13": "#FAB887",
+        "color14": "#FECA92",
+        "color15": "#f6e3cc"
+    }
+}

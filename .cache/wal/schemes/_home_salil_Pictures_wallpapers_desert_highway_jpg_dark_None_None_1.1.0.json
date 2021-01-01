@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/desert_highway.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#392218",
+        "foreground": "#d3d1db",
+        "cursor": "#d3d1db"
+    },
+    "colors": {
+        "color0": "#392218",
+        "color1": "#8F7689",
+        "color2": "#C07E81",
+        "color3": "#7988A0",
+        "color4": "#98929D",
+        "color5": "#DBAF93",
+        "color6": "#F0CDA0",
+        "color7": "#d3d1db",
+        "color8": "#939299",
+        "color9": "#8F7689",
+        "color10": "#C07E81",
+        "color11": "#7988A0",
+        "color12": "#98929D",
+        "color13": "#DBAF93",
+        "color14": "#F0CDA0",
+        "color15": "#d3d1db"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/unaboomer_cabin.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11191b",
+        "foreground": "#c7c8c2",
+        "cursor": "#c7c8c2"
+    },
+    "colors": {
+        "color0": "#11191b",
+        "color1": "#A83F35",
+        "color2": "#8F7164",
+        "color3": "#78856E",
+        "color4": "#958E71",
+        "color5": "#C8A678",
+        "color6": "#778889",
+        "color7": "#c7c8c2",
+        "color8": "#8b8c87",
+        "color9": "#A83F35",
+        "color10": "#8F7164",
+        "color11": "#78856E",
+        "color12": "#958E71",
+        "color13": "#C8A678",
+        "color14": "#778889",
+        "color15": "#c7c8c2"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/salil/Pictures/wallpapers/winter.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#042633",
+        "foreground": "#e2edef",
+        "cursor": "#e2edef"
+    },
+    "colors": {
+        "color0": "#042633",
+        "color1": "#6597A3",
+        "color2": "#89B2B8",
+        "color3": "#9AC1BE",
+        "color4": "#93BBC4",
+        "color5": "#AACBD0",
+        "color6": "#C4DDE2",
+        "color7": "#e2edef",
+        "color8": "#9ea5a7",
+        "color9": "#6597A3",
+        "color10": "#89B2B8",
+        "color11": "#9AC1BE",
+        "color12": "#93BBC4",
+        "color13": "#AACBD0",
+        "color14": "#C4DDE2",
+        "color15": "#e2edef"
+    }
+}

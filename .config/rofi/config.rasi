@@ -1,0 +1,13 @@
+configuration {
+	width: 750;
+	lines: 15;
+	columns: 1;
+	font: "Hack 13";
+	bw: 0;
+	padding: 10;
+	eh: 1;
+	line-margin: 18;
+	separator-style: "solid";
+	hide-scrollbar: true;
+	theme: "/home/salil/.cache/wal/colors-rofi-dark";
+}
