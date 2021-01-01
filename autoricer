@@ -3,7 +3,7 @@
 sudo pacman -S --needed - < pkglist.txt
 yay -S --needed - < pkglist_aur.txt
 chmod -R +x ./.scripts/
-sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi*
+sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi/*
 cp -R ./.config ./.scripts ./.cache ~/
 cd ~/.config/st
 sudo make install
