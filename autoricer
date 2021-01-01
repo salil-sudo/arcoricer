@@ -11,3 +11,4 @@ cd ~/autoricer
 sudo pip3 install pywal
 sudo pip install spotify-cli-linux
 cp -R wallpapers ~/Pictures/
+chsh -s /usr/bin/fish
