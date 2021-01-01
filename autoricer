@@ -6,13 +6,11 @@ chmod -R +x ./.scripts/
 cp -R ./.scripts ~/
 sed -i "s/salil/$USER/g" ./.config/bspwm/bspwmrc ./.config/sxhkd/sxhkdrc ./.scripts/wallpaper.sh ./.scripts/reload_dunst.sh ./.scripts/spotifyinfo.sh ./.scripts/getemoji
 
-cp -R wal ~/.cache/
 
-mv -R bspwm polybar ranger fish nvim zathura Zathura-Pywal st rofi s ~/.config
+cp -R ./.config ./.scripts ./.cache ~/
 cd ~/.config/st
 sudo make install
 cd ~/arcoricer
 sudo pip3 install pywal
 sudo pip install spotify-cli-linux
-mkdir ~/Picures/wallpapers
-mv kristopher-roller-zepnJQycr4U-unsplash.jpg ~/Pictures/wallpapers
+cp -R wallpapers ~/Pictures/
