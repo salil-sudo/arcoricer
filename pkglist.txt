@@ -27,6 +27,7 @@ arcolinux-welcome-app-git
 arcolinux-xfce-git
 arcolinuxd-system-config-git
 asciinema
+atool
 autoconf
 automake
 awesome-terminal-fonts
@@ -396,4 +397,5 @@ xorg-xwud
 xtitle-git
 yay-bin
 yelp
-zoom
+zathura
+zathura-pdf-mupdf
