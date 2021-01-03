@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo pacman -S --needed - < pkglist.txt
+sudo pacman -Rs picom
 yay -S --needed - < pkglist_aur.txt
 chmod -R +x ./.scripts/
 sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi/* ./.config/fish/*
