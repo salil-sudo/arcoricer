@@ -1,11 +1,9 @@
 aleo-fonts
-anydesk-bin
 bottom
 gruvbox-dark-icons-gtk
 libxft-bgra
 mkinitcpio-openswap
 python-pip
-python3-pip
 rofi-dmenu
 starship
 ttf-arvo
