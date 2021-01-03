@@ -62,7 +62,7 @@ set render-loading true
 
 set render-loading-fg "#1a1725" # Background
 
-set render-loading-bg "#94cf95" # Foreground
+set render-loading-bg "#DBAF93" # Foreground
 
 
 
@@ -72,9 +72,9 @@ set render-loading-bg "#94cf95" # Foreground
 
 #
 
-set recolor-lightcolor "#1a1725" # Background
+#set recolor-lightcolor "#1a1725" # Background
 
-set recolor-darkcolor "#94cf95" # Foreground
+#set recolor-darkcolor "#DBAF93" # Foreground
 
 
 
