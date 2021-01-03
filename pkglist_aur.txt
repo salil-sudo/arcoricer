@@ -10,3 +10,4 @@ starship
 ttf-arvo
 ttf-font-awesome-4
 ttf-merriweather
+picom-tryone-git
