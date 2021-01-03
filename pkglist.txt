@@ -276,7 +276,6 @@ sdparm
 sed
 sg3_utils
 simple-scan
-slack-desktop
 smartmontools
 spotify
 spotifywm-git
