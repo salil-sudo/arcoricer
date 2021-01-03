@@ -324,7 +324,6 @@ usb_modeswitch
 usbutils
 vim
 vino
-virtualbox
 vlc
 volumeicon
 vpnc
