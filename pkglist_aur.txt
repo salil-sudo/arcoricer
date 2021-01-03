@@ -2,7 +2,6 @@ aleo-fonts
 anydesk-bin
 bottom
 gruvbox-dark-icons-gtk
-lf
 libxft-bgra
 mkinitcpio-openswap
 rofi-dmenu
