@@ -8,7 +8,8 @@ sxhkd &
 bspc monitor -d I II III IV V VI VII VIII IX X
 
 picom --experimental-backends &
-xset r rate 300 50 &
+#xset r rate 300 50 &
+xset r rate 300 80 &
 /home/salil/.scripts/wallpaper.sh
 /home/salil/.scripts/launchpolybar
 cat /dev/null > /tmp/mybar.log

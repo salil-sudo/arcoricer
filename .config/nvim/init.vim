@@ -19,10 +19,14 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 
 
+"clear selection
 noremap <silent> <C-l> <Esc>:noh<CR>
+"Source vimrc
 noremap <silent> <leader>s <Esc>:source $MYVIMRC<CR>
+"Global copy/paste
 vnoremap <leader>y "+y
 noremap <leader>v "+p
+"Select all
 nnoremap <C-a> gg <S-v><S-g>
 
 
@@ -55,6 +59,11 @@ vnoremap <leader><leader> :s/;$//<CR><ESC>gv:s/$/;/<CR><ESC>gv:s/^;//<CR><ESC>:n
 inoremap <leader>ze zeros()<ESC>i
 inoremap <leader>1 ones()<ESC>i
 inoremap <leader>gauss gauss = @(mu_x,mu_y,sigma,X,Y)<Space>exp(-((X-mu_x).^2+(Y-mu_y).^2)/(2*sigma^2));<ESC>
+
+
+"Latex
+nnoremap <silent> cmp :! pdflatex % > /dev/null<CR><CR>
+
 " Automatically deletes all trailing whitespace and newlines at end of file on save.
 autocmd BufWritePre * %s/\s\+$//e
 autocmd BufWritepre * %s/\n\+\%$//e
