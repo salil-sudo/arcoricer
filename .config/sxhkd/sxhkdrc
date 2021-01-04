@@ -69,6 +69,11 @@ alt + shift + s
 alt + shift + e
 	/home/salil/.scripts/getemoji
 
+#helper
+  1 alt + shift + h
+  2   zathura ~/.local/helper.pdf
+
+
 # volume
 F6
 	amixer -D pulse sset Master 2%+
