@@ -6,7 +6,7 @@ sudo pacman -Rs picom
 yay -S $(cat pkglist_aur.txt | xargs)
 chmod -R +x ./.scripts/
 sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi/* ./.config/fish/*
-cp -R ./.config ./.scripts ./.cache ~/
+cp -R ./.config ./.scripts ./.cache ./.local ~/
 cd ~/.config/st
 sudo make install
 cd ~/autoricer
