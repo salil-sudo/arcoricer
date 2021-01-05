@@ -7,3 +7,4 @@
 [st](https://github.com/LukeSmithxyz/st)  
 [ranger](https://github.com/LukeSmithxyz)  
 [polybar](https://github.com/ngynLk/polybar-themes/tree/master/transparent)  
+[sample wallpaper](https://unsplash.com/photos/zepnJQycr4U)
