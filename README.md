@@ -5,9 +5,11 @@
 
 </p>
 
+#### Please read the instructions here carefully before installling anything
+
 ## What is this?
 
-This is a side-project I made to make my life easier when I want to migrate to a new machine or clean format my own machine and have my customized setup in place without much effort. I made one simple shell script that does it all. Some features of my setup are mentioned in my personal config [repo](https://github.com/salil-sudo/arcorice). Any feature update will be mentioned [there](https://github.com/salil-sudo/arcorice) and not here. Although this repository and my personal config [repo](https://github.com/salil-sudo/arcorice) are almost same. I prefer to keep them separate.
+This is a side-project I made to make my life easier when I want to migrate to a new machine or clean format my own machine and have my customized setup in place without much effort. I made one simple shell script that does it all. Some features of my setup are mentioned in my personal config [repo](https://github.com/salil-sudo/arcorice). Any feature update will be mentioned [there](https://github.com/salil-sudo/arcorice) and not here. Although this repository and my personal config [repo](https://github.com/salil-sudo/arcorice) are almost same. I prefer to keep them separate. This script is aimed to rice bspwm and not GNOME. I keep GNOME as a fallback DE and for some it's utilities.
 
 #### Warning: Use this autoricer at your own risk. Best thing to do is install it on a freshly erased drive. Dont forget to backup your data before you do anything (Unless you know what you are doing :wink:)
 
