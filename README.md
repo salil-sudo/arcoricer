@@ -62,7 +62,7 @@ After that just remove the old config file `~/.config/picom.conf` and the in `~/
 ` to `picom &
 `
 
-## Contribution
+## Acknowledgements & Contributions
 
-As we all do, I have taken some code snippets from internet formus and other places on the internet. For some reason, if you see your script or part of it and feel that I havent credited you, just let me know, I will do so. Any improvements, suggestions and debloatings are of course welcome.
+As we all do (at some point), I have taken some code snippets from internet formus and other places on the internet. I have mentioned the places I got my scripts and snippets from in [THANKS.md](https://github.com/salil-sudo/autoricer/blob/main/THANKS.md). I have modified and adopted these to my own taste and convinience. For some reason, if you see your script or part of it and feel that I havent credited you, just let me know, I will do so. Any improvements, suggestions and debloatings are of course welcome.  
 contact: <salil@salil.cool>
