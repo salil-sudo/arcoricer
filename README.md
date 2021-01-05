@@ -1,7 +1,7 @@
 # Autoricer: A script that installs my setup
 
 <p align="middle">
-  <img src=images/arco_unix.gif height="80%" width="80%">
+  <img src=images/arco_unix.gif height="90%" width="90%">
 
 </p>
 
