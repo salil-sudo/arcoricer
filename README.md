@@ -29,6 +29,8 @@ I have tested it on a [ArcoLinuxD](https://arcolinuxd.com/). It should work on o
 - Desktop  
 	✔ Desktop: bspwm  
 	✔ Desktop: Gnome  
+- Keyboard
+	✔ English  
 
 After ArcoLinux is installed, you will logged in the system via a TTY since Gdm is not enabled. You will have to manually enable Gdm service. To do so,
 
