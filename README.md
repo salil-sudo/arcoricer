@@ -41,6 +41,7 @@ After ArcoLinux is installed, you will logged in the system via a TTY since Gdm 
 
 Installation is straightforward:
 
+    sudo pacman -Syu
     git clone https://github.com/salil-sudo/autoricer
     cd autoricer
     bash ./autoricer
