@@ -3,7 +3,8 @@
 sudo pacman -S --needed - < pkglist.txt
 sudo pacman -Rs picom
 #yay -S --needed - < pkglist_aur.txt
-yay -S $(cat pkglist_aur.txt | xargs)
+#yay -S $(cat pkglist_aur.txt | xargs)
+for word in $(cat pkglist_aur.txt); do yay -S -needed $word || true; done
 chmod -R +x ./.scripts/
 sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi/* ./.config/fish/*
 cp -R ./.config ./.scripts ./.cache ./.local ~/
