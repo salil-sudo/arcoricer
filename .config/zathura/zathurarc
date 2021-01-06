@@ -86,7 +86,6 @@ set render-loading-bg "#DBAF93" # Foreground
 
 set adjust-open width
 
-set recolor true
 
 map <C-=> zoom in
 
