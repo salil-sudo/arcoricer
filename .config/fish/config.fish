@@ -8,9 +8,17 @@ alias cs='cd ~/.scripts'
 alias cff='cd ~/.config/fish'
 alias la='ls -A'
 alias ..='cd ..'
+alias ...='cd ../..'
+alias cfn='cd ~/.config/nvim'
+alias cfnp='cd ~/.config/nvim/vim-plug'
+alias cff='cd ~/.config/fish'
+alias cfra='cd ~/.config/ranger'
+alias cfd='cd ~/.config/dunst'
+alias cfro='cd ~/.config/rofi'
 
 abbr -a chx chmod +x
 abbr -a ne nvim
+abbr -a cpi nvim ~/.config/picom.conf
 
 
 
