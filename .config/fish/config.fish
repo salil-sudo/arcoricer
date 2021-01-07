@@ -1,3 +1,10 @@
+set --erase fish_greeting
+function fish_greeting
+end
+
+
+
+
 alias cf='cd ~/.config'
 alias cfb='cd ~/.config/bspwm'
 alias cfs='cd ~/.config/sxhkd'

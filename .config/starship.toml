@@ -9,6 +9,6 @@ disabled = true
 truncation_length = 5
 
 [character]
-error_symbol = "[x](bold red)"
-vicmd_symbol = "[V](bold green) "
+error_symbol = "[✗](bold red)"
+vicmd_symbol = "[🆅](bold green) "
 success_symbol = "[ ](bold green)"
