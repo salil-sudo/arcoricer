@@ -54,7 +54,7 @@ alt + slash
 	/home/salil/.scripts/spotifyinfo.sh
 
 alt + y
-	st -e /home/salil/.cargo/bin/ytop
+	st -e btm
 
 #gnome control center
 alt + shift + g
@@ -187,5 +187,5 @@ super + shift + {Left,Down,Up,Right}
 	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
 
 # move a floating window
-super + ctrl + {Left,Down,Up,Right}
+super + alt + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
