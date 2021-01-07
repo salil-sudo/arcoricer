@@ -74,6 +74,16 @@ alt + shift + h
 	zathura ~/.local/helper.pdf
 
 
+#change blur
+alt + shift + j
+	/home/salil/.scripts/blur_control minus 2
+
+alt + shift + k
+	/home/salil/.scripts/blur_control plus 2
+
+alt + shift + plus
+	/home/salil/.scripts/blur_control default
+
 # volume
 F6
 	amixer -D pulse sset Master 2%+
