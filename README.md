@@ -58,7 +58,7 @@ There will be some package conflicts during installation, just choose 'yes' to r
 
 ## Known issues
 
-If you are using a virtual machine or a machine with a really old hardware or for some other reason, picom's [dual kawase blur](https://github.com/tryone144/picom/tree/feature/dual_kawase ) wont work. In that case just remove [Tryone's](https://github.com/tryone144/picom) picom fork (f it is successfully installed at all) and install vanilla picom.
+If you are using a virtual machine or a machine with a really old hardware or for some other reason, picom's [dual kawase blur](https://github.com/tryone144/picom/tree/feature/dual_kawase ) wont work. In that case just remove [Tryone's](https://github.com/tryone144/picom) picom fork (if it is successfully installed at all) and install vanilla picom.
 
     yay -Rs picom-tryone-git
     sudo pacman -S picom
