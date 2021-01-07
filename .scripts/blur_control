@@ -6,6 +6,10 @@
 # If you have any other instance of "NUMBER;", it will change that too
 
 
+# Usage: blur_control OPTIONS STRENGTH
+# OPTIONS: plus/minus/default
+# Example: blur_control plus 10
+
 
 NUM="${2:-2}"
 DIR=/home/salil/.config/picom.conf
