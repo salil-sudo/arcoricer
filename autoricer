@@ -2,9 +2,9 @@
 
 sudo pacman -S --needed - < pkglist.txt
 sudo pacman -Rs picom
-for word in $(cat pkglist_aur.txt); do yay -S --needed $word || true; done
-#exec 9<pkglist_aur.txt
-#while read -u9 pkg; do yay -S --needed $pkg; done
+#for word in $(cat pkglist_aur.txt); do yay -S --needed $word || true; done
+exec 9<pkglist_aur.txt
+while read -u9 pkg; do yay -S --needed $pkg; done
 chmod -R +x ./.scripts/
 sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi/* ./.config/fish/*
 cp -R ./.config ./.scripts ./.cache ./.local ~/
