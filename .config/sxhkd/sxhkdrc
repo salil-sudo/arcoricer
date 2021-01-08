@@ -73,16 +73,10 @@ alt + shift + e
 alt + shift + h
 	zathura ~/.local/helper.pdf
 
+#blur toggle
+alt + shift + b
+	/home/salil/.scripts/blur_toggle
 
-#change blur
-alt + shift + j
-	/home/salil/.scripts/blur_control minus 2
-
-alt + shift + k
-	/home/salil/.scripts/blur_control plus 2
-
-alt + shift + plus
-	/home/salil/.scripts/blur_control default
 
 # volume
 F6

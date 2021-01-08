@@ -1,0 +1,8 @@
+#!/bin/bash
+
+DIR=/home/salil/.config/picom.conf
+TOG1="  normal = { blur-background = true; };"
+TOG0="  normal = { blur-background = false; };"
+CUR_STATE=$(grep "normal = { blur-background =" $DIR)
+
+[[ $CUR_STATE == $TOG1 ]] && sed -i "s/$TOG1/$TOG0/g" $DIR || sed -i "s/$TOG0/$TOG1/g" $DIR
