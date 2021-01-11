@@ -1,11 +1,7 @@
 aleo-fonts
 bottom
-gruvbox-dark-icons-gtk
 libxft-bgra
 mkinitcpio-openswap
-python-pip
 rofi-dmenu
 starship
-ttf-arvo
 ttf-font-awesome-4
-picom-tryone-git
