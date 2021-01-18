@@ -51,7 +51,7 @@ alt + comma
 	spotifycli --prev
 
 alt + slash
-	/home/salil/.scripts/spotifyinfo.sh
+	dunstctl history-pop
 
 alt + y
 	st -e btm
