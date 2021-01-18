@@ -15,6 +15,8 @@ This is a side-project I made to make my life easier when I want to migrate to a
 
 ## Pre-Installation
 
+#### If you are testing this in a virtual machine, please refer to [known issues](#known-issues) section. 
+
 I have tested it on a [ArcoLinuxD](https://arcolinuxd.com/). It should work on other Arch based distros but you might have to add some extra stuff (or remove some unnecessary stuff).  For a fresh ArcoLinuxD installation these options should be selected as a minimum requirement. Some of these options might be unnecessary or can be chosen differently (needs testing)
 
  - Kernel  
