@@ -55,6 +55,14 @@ alt + slash
 
 alt + y
 	st -e btm
+#Matlab
+
+alt + shift + m
+	/usr/local/MATLAB/R2018a/bin/matlab
+
+#Weather
+alt + shift + w
+	brave --new-window  /home/salil/.scripts/weather.html
 
 #gnome control center
 alt + shift + g
@@ -64,6 +72,9 @@ alt + shift + g
 alt + shift + s
 	/home/salil/.scripts/display.sh
 
+#anydesk
+alt + shift + a
+	anydesk
 
 #Get emoji
 alt + shift + e
@@ -76,7 +87,6 @@ alt + shift + h
 #blur toggle
 alt + shift + b
 	/home/salil/.scripts/blur_toggle
-
 
 # volume
 F6
@@ -94,8 +104,13 @@ F9
 	xbacklight -inc 5
 F8
 	xbacklight -dec 5
-#
+
+# Pull up vim manual
+alt + shift + v
+	groff -ms /home/salil/.local/vim_manual.ms -Tpdf | zathura -
+
 # bspwm hotkeys
+
 #
 
 # quit/restart bspwm

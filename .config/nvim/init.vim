@@ -17,6 +17,21 @@ colorscheme wal
 let mapleader = ";"
 source $HOME/.config/nvim/vim-plug/plugins.vim
 
+" Enable autocompletion:
+	set wildmode=longest,list,full
+
+" Spell-check set to <leader>o, 'o' for 'orthography':
+	map <leader>o :setlocal spell! spelllang=en_us<CR>
+
+" Groff/tex filetype autodetect
+autocmd BufRead,BufNewFile *.ms,*.me,*.mom,*.man set filetype=groff
+autocmd BufRead,BufNewFile *.tex set filetype=tex
+
+" Compile document, be it groff/LaTeX/markdown/etc.
+nnoremap <leader>c :w \| !/home/salil/.scripts/compiler "<c-r>%"<CR>
+
+" Save file as sudo on files that require root permission
+	cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit!
 
 
 "clear selection
@@ -34,7 +49,7 @@ nnoremap <C-a> gg <S-v><S-g>
 
 " comment and uncomment selection
 vnoremap <silent> <leader>r :s/^/%/<CR><Esc>:noh<CR>
-vnoremap <silent> <leader>t :s/^%*//<CR><Esc>:noh<CR>
+vnoremap <silent> <leader>t :s/^%*\s\+//<CR><Esc>:noh<CR>
 
 " clear/delete functions/for loops
 inoremap <leader>f function<CR><CR><CR><CR>end<ESC>4k$a<Space>
@@ -48,7 +63,7 @@ nnoremap <leader>dl ?for<CR><S-V>/end<CR><S-D>i
 
 
 "make selection an executable block
-vnoremap <leader>b xi<CR><CR><ESC>2k0i%%<CR>%%<ESC>k$p
+vnoremap <leader>b xi<CR><CR><ESC>2k0i%%<CR>%<ESC>k$p
 
 " Add ; at the end of each line
 vnoremap <leader><leader> :s/;$//<CR><ESC>gv:s/$/;/<CR><ESC>gv:s/^;//<CR><ESC>:noh<CR>
