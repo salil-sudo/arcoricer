@@ -55,14 +55,6 @@ alt + slash
 
 alt + y
 	st -e btm
-#Matlab
-
-alt + shift + m
-	/usr/local/MATLAB/R2018a/bin/matlab
-
-#Weather
-alt + shift + w
-	brave --new-window  /home/salil/.scripts/weather.html
 
 #gnome control center
 alt + shift + g
@@ -71,10 +63,6 @@ alt + shift + g
 #switch between displays
 alt + shift + s
 	/home/salil/.scripts/display.sh
-
-#anydesk
-alt + shift + a
-	anydesk
 
 #Get emoji
 alt + shift + e
