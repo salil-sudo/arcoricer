@@ -19,9 +19,15 @@ alt + Escape
 #browser
 alt + b
 	brave
+
+
 #Print screen
 Print
-	gnome-screenshot -i
+	flameshot full -p /home/salil/Pictures
+
+#Print part of the screen
+alt + Print
+	flameshot gui -p /home/salil/Pictures
 
 #calculator
 alt + c
@@ -31,9 +37,9 @@ alt + c
 alt + n
 	st -e ranger
 
-#nautilus
+#pcmanfm
 alt + shift + n
-		nautilus
+		pcmanfm
 
 #spotify
 alt + m
