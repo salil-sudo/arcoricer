@@ -14,7 +14,7 @@ This is a side-project I made to make my life easier when I want to migrate to a
 Some features and specs of this setup can be found [here](https://github.com/salil-sudo/arcoricer/blob/main/FEATURES.md)
 
 An minimal version of arcoricer based on **Arch Linux** can be found [here](https://github.com/salil-sudo/archricer)
-#### Warning: Use this autoricer at your own risk. Best thing to do is install it on a freshly erased drive. Dont forget to backup your data before you do anything (Unless you know what you are doing :wink:)
+#### Warning: Use this arcoricer at your own risk. Best thing to do is install it on a freshly erased drive. Dont forget to backup your data before you do anything (Unless you know what you are doing :wink:)
 
 ## Pre-Installation
 
@@ -50,7 +50,7 @@ Installation is straightforward:
 
     sudo pacman -Syu
     git clone https://github.com/salil-sudo/arcoricer
-    cd autoricer
+    cd arcoricer
     bash ./arcoricer
 There will be some package conflicts during installation, just choose 'yes' to resolve them. For example, I use [rofi-dmenu](https://aur.archlinux.org/packages/rofi-dmenu/) which would conflict with dmenu and will ask to remove it. Make sure to reboot your system after installation.
 
