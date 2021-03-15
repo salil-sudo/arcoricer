@@ -52,7 +52,6 @@ Installation is straightforward:
     git clone https://github.com/salil-sudo/arcoricer
     cd arcoricer
     bash ./arcoricer
-There will be some package conflicts during installation, just choose 'yes' to resolve them. For example, I use [rofi-dmenu](https://aur.archlinux.org/packages/rofi-dmenu/) which would conflict with dmenu and will ask to remove it. Make sure to reboot your system after installation.
 
 ## Post-installation
 
