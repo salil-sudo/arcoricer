@@ -22,7 +22,8 @@ An minimal version of arcoricer based on **Arch Linux** can be found [here](http
 
 I have tested it on a [ArcoLinuxD](https://arcolinuxd.com/). It should work on other Arch based distros but you might have to add some extra stuff (or remove some unnecessary stuff).  For a fresh ArcoLinuxD installation these options should be selected as a minimum requirement. Some of these options might be unnecessary or can be chosen differently (needs testing)
 
- - Kernel
+
+- Kernel
 	  ✔ Linux kernel without any nvidia (Should work with nvidia kernel as well, needs testing)
 - Services
 	✔ Bluetooth Support
