@@ -1,4 +1,4 @@
-# Autoricer: A script that installs my setup
+# ArcoRicer: A script that installs my setup
 
 <p align="middle">
   <img src=images/arco_unix.gif height="90%" width="90%">
@@ -23,20 +23,21 @@ An minimal version of arcoricer based on **Arch Linux** can be found [here](http
 I have tested it on a [ArcoLinuxD](https://arcolinuxd.com/). It should work on other Arch based distros but you might have to add some extra stuff (or remove some unnecessary stuff).  For a fresh ArcoLinuxD installation these options should be selected as a minimum requirement. Some of these options might be unnecessary or can be chosen differently (needs testing)
 
 
-- Kernel
-	  ✔ Linux kernel without any nvidia (Should work with nvidia kernel as well, needs testing)
-- Services
-	✔ Bluetooth Support
-	✔ Laptop Support
-	✔ Network Discovery
-	✔ Sound
-- Login
-	✔ Login manager: Gdm
-- Desktop
-	✔ Desktop: bspwm
-	✔ Desktop: Gnome
-- Keyboard
-	✔ English
+
+ - Kernel  
+	  ✔ Linux kernel without any nvidia (Should work with nvidia kernel as well, needs testing)  
+- Services  
+	✔ Bluetooth Support  
+	✔ Laptop Support  
+	✔ Network Discovery  
+	✔ Sound  
+- Login  
+	✔ Login manager: Gdm  
+- Desktop  
+	✔ Desktop: bspwm  
+	✔ Desktop: Gnome  
+- Keyboard  
+	✔ English  
 
 After ArcoLinux is installed, you will logged in the system via a TTY since Gdm is not enabled. You will have to manually enable Gdm service. To do so,
 
