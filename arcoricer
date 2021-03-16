@@ -4,6 +4,7 @@ sudo pacman -S --noconfirm --needed - < pkglist.txt
 #for word in $(cat pkglist_aur.txt); do yay -S --needed $word || true; done
 exec 9<pkglist_aur.txt
 while read -u9 pkg; do yay -S --noconfirm --needed $pkg; done
+yay -S libxft-bgra
 chmod -R +x ./.scripts/
 sed -i "s/salil/$USER/g" ./.scripts/* ./.config/bspwm/* ./.config/sxhkd/* ./.config/rofi/* ./.config/fish/*
 cp -R ./.config ./.scripts ./.cache ./.local ~/
