@@ -23,6 +23,7 @@ bspc config focus_follows_pointer true
 #bspc rule -a Chromium desktop='^2'
 bspc rule -a Zathura state=tiled
 bspc rule -a St:calc state=floating sticky=on
+bspc rule -a St:notes state=floating sticky=on
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 . "/home/salil/.cache/wal/colors.sh"

@@ -33,6 +33,10 @@ alt + Print
 alt + c
 	st -n calc -e bc
 
+#scratchpad
+alt + s
+	st -n notes -e nvim -c '+ normal Go' /home/salil/notes
+
 #ranger
 alt + n
 	st -e ranger
