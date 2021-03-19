@@ -31,7 +31,7 @@ alt + Print
 
 #calculator
 alt + c
-	st -n calc -e bc
+	st -n calc -e bc -l
 
 #scratchpad
 alt + s
