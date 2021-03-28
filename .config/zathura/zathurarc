@@ -86,11 +86,7 @@ set render-loading-bg "#DBAF93" # Foreground
 
 set adjust-open width
 
-
+map <C--> zoom out
 map <C-=> zoom in
 
-map <C--> zoom out
-
-map d scroll half-down
-map u scroll half-up
 map i recolor

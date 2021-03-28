@@ -8,7 +8,7 @@ rofi.color-enabled: true
 ! rofi.color-active: argb:00292d37, #ffffff, argb:00292d37, argb:00292d37, #ffffff
 ! rofi.color-urgent: argb:00292d37, #ffffff, argb:00292d37, argb:00292d37, #ffffff
 
-rofi.font: Hack 13
+rofi.font: Cascadia Mono 13
 rofi.eh: 1
 rofi.line-margin: 18
 rofi.separator-style: solid

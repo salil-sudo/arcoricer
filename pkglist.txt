@@ -233,6 +233,7 @@ thunar-archive-plugin
 thunar-volman
 tlp
 trizen
+ttf-cascadia-code
 ttf-dejavu
 ttf-fira-code
 ttf-hack
