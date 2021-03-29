@@ -1,5 +1,7 @@
 # ArcoRicer: A script that installs my setup
 
+## This is no longer maintained. Please follow [ricer](https://github.com/salil-sudo/ricer)
+
 <p align="middle">
   <img src=images/arco_unix.gif height="90%" width="90%">
 
